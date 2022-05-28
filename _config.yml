@@ -14,10 +14,8 @@ baseurl: ""
 username: Josué Catarino
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: 
-  - an expert in everything ;)
-  - message 2
-  - message 3
+typing_text_1: a kafka engineer
+typing_text_2: click the icons for more.
 # email: Your E-Mail address for the email button.
 email: josue_catarino83@live.com.mx
 # For every social button you want to display, set your username or userid
